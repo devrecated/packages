@@ -1,0 +1,2 @@
+# autodevelop apt repo (GitHub Pages)
+deb [trusted=yes] https://devrecated.github.io/packages/deb stable main

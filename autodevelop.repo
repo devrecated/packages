@@ -1,0 +1,5 @@
+[autodevelop]
+name=autodevelop (GitHub Pages)
+baseurl=https://devrecated.github.io/packages/rpm
+enabled=1
+gpgcheck=0

@@ -1,0 +1,16 @@
+Package: autodevelop
+Architecture: amd64
+Version: 0.1.1
+Priority: optional
+Section: utils
+Maintainer: Devrecated <opensource@devrecated.com>
+Installed-Size: 6568
+Filename: pool/main/autodevelop_0.1.1_amd64.deb
+Size: 2859344
+MD5sum: 8ce302349363f86796a5a5ed0dd48d79
+SHA1: 82d8d128f6a31eedd22afaec1090167fce5aff00
+SHA256: b589b72b72f22523fb8ac078321061ce026afbf3ecc83b553f321c204dcb6d6f
+SHA512: e1b9eee93726b5bededc0a99842be5c93deb07243dcd2a04aa8e4d245eaa1b5ba34a51033b25e37aacf5ecb4450c05d4c323797129933c7d2ecd867a66139dec
+Homepage: https://github.com/devrecated/autodevelop-cli
+Description: Autodevelop CLI — login, kit install, and MCP for agentic coding teams.
+
